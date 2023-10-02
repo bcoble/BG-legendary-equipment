@@ -1,0 +1,7 @@
+new entry "TV_BGLW_Celestial_Fury_Stunning_Blows"
+type "PassiveData"
+data "DisplayName" "ha1917f3dg22eag450bg9ae1gf79044fe00d4"
+data "Description" "h6685a889ge073g4425g9f32g2ab02c65a358"
+data "StatsFunctorContext" "OnDamage"
+data "Conditions" "AttackedWithPassiveSourceWeapon()"
+data "StatsFunctors" "ApplyStatus(STUNNED, 100, 1,,,,not SavingThrow(Ability.Constitution,14))"

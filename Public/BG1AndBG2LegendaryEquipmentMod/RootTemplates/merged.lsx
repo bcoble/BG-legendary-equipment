@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="0" revision="6" build="5" />
+	<region id="Templates">
+		<node id="Templates">
+			<children>	
+				<node id="GameObjects"> Sample Backpack
+					<attribute id="Description" type="TranslatedString" handle="h3b552af2gff7fg465eg8d57gfea79ad1a2f3" version="1" /> Points to Localization xml file. Generate new handle
+					<attribute id="DisplayName" type="TranslatedString" handle="he13660ffg121ag486cgbaaeg66ffe8445360" version="1" /> Points to Localization xml file. Generate new handle
+					<attribute id="Icon" type="FixedString" value="Item_LOOT_GEN_Backpack_A_Posed_A" /> Keep the original icon, as the visuals have not been altered
+					<attribute id="InventoryType" type="uint8" value="11" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="704bbd07-129a-467f-888f-0f5de0fd970d" /> Same UUID as in Object.txt. Generate new UUID
+					<attribute id="Name" type="LSString" value="SEM_OBJ_Backpack_Sample" />
+					<attribute id="ParentTemplateId" type="FixedString" value="aebf62bd-e68d-4e14-9ed7-1d51289a3e4e" /> Points to LOOT_GEN_Backpack_B_Posed_A in Shared.PAK's RootTemplate
+					<attribute id="Scale" type="float" value="0.85" /> Use this to shrink or enlarge your container.
+					<attribute id="Stats" type="FixedString" value="SEM_OBJ_Backpack_Sample" /> 
+					<attribute id="Tooltip" type="uint8" value="2" />
+					<attribute id="TreasureOnDestroy" type="bool" value="True" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115188075855912" />
+					<children>
+						<node id="GameMaster" />
+						<node id="InventoryList">
+							<children>
+								<node id="InventoryItem">
+									<attribute id="Object" type="FixedString" value="SEM_SampleBackpack_TT" /> Points to TreasureTable.txt
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>					
+			</children>
+		</node>
+	</region>
+</save>

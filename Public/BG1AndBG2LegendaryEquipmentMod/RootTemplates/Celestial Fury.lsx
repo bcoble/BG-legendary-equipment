@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="0" revision="6" build="5" />
+	<region id="Templates">
+		<node id="Templates">
+			<children>	
+				<node id="GameObjects">
+					<attribute id="Description" type="TranslatedString" handle="h0cb5800bg243dg4c74ga393g870e1cc2787b" version="2" /> 
+					<attribute id="DisplayName" type="TranslatedString" handle="hdadbec9fgf58bg4b9dg91dag637568f2fa84" version="2" /> 
+					<attribute id="EquipmentTypeID" type="guid" value="12b80df8-aaf1-4543-84fa-c44622e451b5" />
+					<attribute id="Icon" type="FixedString" value="Item_MAG_TheClover_Scimitar" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="57d31356-237c-4df9-a660-6d549723b80e" />
+					<attribute id="Name" type="LSString" value="TV_BGLW_Celestial_Fury" />
+					<attribute id="ParentTemplateId" type="FixedString" value="5193af64-48c1-406f-90bf-87f7f01b4684" />
+					<attribute id="PhysicsTemplate" type="FixedString" value="669e8a9a-0b50-81b7-8b1f-a7527bc66e8f" />
+					<attribute id="Stats" type="FixedString" value="TV_BGLW_Celestial_Fury" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="VisualTemplate" type="FixedString" value="62decd30-fd97-d7ff-e7af-5251a091da12" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115188075855919" />
+					<children>
+						<node id="GameMaster" />
+						<node id="OnDestroyActions">
+							<children>
+								<node id="Action">
+									<attribute id="ActionType" type="int32" value="26" />
+									<children>
+										<node id="Attributes">
+											<attribute id="Animation" type="FixedString" value="" />
+											<attribute id="ActivateSoundEvent" type="FixedString" value="3ea82655-5140-4287-9ab8-794559f182d3" />
+											<attribute id="PlayOnHUD" type="bool" value="False" />
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>					
+			</children>
+		</node>
+	</region>
+</save>

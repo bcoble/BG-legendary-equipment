@@ -1,0 +1,7 @@
+new entry "SEM_OBJ_Backpack_Sample"
+type "Object"
+using "_Container"
+data "RootTemplate" "704bbd07-129a-467f-888f-0f5de0fd970d"
+data "ValueOverride" "7"
+data "Weight" "0.1"
+data "Rarity" "Rare"

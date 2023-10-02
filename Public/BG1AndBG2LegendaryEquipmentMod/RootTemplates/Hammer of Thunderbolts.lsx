@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="0" revision="6" build="5" />
+	<region id="Templates">
+		<node id="Templates">
+			<children>	
+				<node id="GameObjects">
+					<attribute id="Description" type="TranslatedString" handle="hd5375081g8f5cg4a8cgb9ccg9acdb4b9a09f" version="2" /> 
+					<attribute id="DisplayName" type="TranslatedString" handle="ha3204afeg82a6g4b94gae67g4ec8bafe7a25" version="2" /> 
+					<attribute id="EquipmentTypeID" type="guid" value="ab54402e-d3f3-497d-9b81-519b18afb827" />
+					<attribute id="Icon" type="FixedString" value="Item_WPN_HUM_WarHammer_A_1" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="b5c456f5-ea03-4059-b749-e9176daff9cd" />
+					<attribute id="Name" type="LSString" value="TV_BGLW_Hammer_of_Thunderbolts" />
+					<attribute id="ParentTemplateId" type="FixedString" value="6b17998d-2e79-405d-8b1f-beb53658312f" />
+					<attribute id="PhysicsTemplate" type="FixedString" value="6bb18eb2-5a66-4a54-744b-f1d286c39c19" />
+					<attribute id="Stats" type="FixedString" value="TV_BGLW_Hammer_of_Thunderbolts" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="VisualTemplate" type="FixedString" value="1cb1363c-f955-e949-a701-de0acca84839" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115188075855919" />
+					<children>
+						<node id="GameMaster" />
+						<node id="OnDestroyActions">
+							<children>
+								<node id="Action">
+									<attribute id="ActionType" type="int32" value="26" />
+									<children>
+										<node id="Attributes">
+											<attribute id="Animation" type="FixedString" value="" />
+											<attribute id="ActivateSoundEvent" type="FixedString" value="3ea82655-5140-4287-9ab8-794559f182d3" />
+											<attribute id="PlayOnHUD" type="bool" value="False" />
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>					
+			</children>
+		</node>
+	</region>
+</save>
