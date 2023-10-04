@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="0" revision="6" build="5" />
+	<region id="Templates">
+		<node id="Templates">
+			<children>	
+				<node id="GameObjects">
+					<attribute id="Description" type="TranslatedString" handle="h58c26eacg2c9eg4623g98afg7479837ed9bb" version="2" /> 
+					<attribute id="DisplayName" type="TranslatedString" handle="hecf38e25ge960g4424g9e4egb728464ad052" version="2" /> 
+					<attribute id="EquipmentTypeID" type="guid" value="8ac2eb82-8563-4657-8c4c-1507573978d7" />
+					<attribute id="Icon" type="FixedString" value="Item_WPN_GTY_Greatsword_A_LowHP_IncreasedDamagePsychic" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="0f2ec869-9335-4f25-9615-2fb4d4b7aefe" />
+					<attribute id="Name" type="LSString" value="TV_BGLW_Carsomyr" />
+					<attribute id="ParentTemplateId" type="FixedString" value="d1082e88-b1e2-479d-913f-1413784d95a" />
+					<attribute id="PhysicsTemplate" type="FixedString" value="e2ba2c2b-5ec8-daf3-1e34-b2b583552b8d" />
+					<attribute id="Stats" type="FixedString" value="TV_BGLW_Carsomyr" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="VisualTemplate" type="FixedString" value="b9790200-7f39-4c03-a86b-d452187c1add" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115188075855919" />
+					<children>
+						<node id="GameMaster" />
+						<node id="OnDestroyActions">
+							<children>
+								<node id="Action">
+									<attribute id="ActionType" type="int32" value="26" />
+									<children>
+										<node id="Attributes">
+											<attribute id="Animation" type="FixedString" value="" />
+											<attribute id="ActivateSoundEvent" type="FixedString" value="3ea82655-5140-4287-9ab8-794559f182d3" />
+											<attribute id="PlayOnHUD" type="bool" value="False" />
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>					
+			</children>
+		</node>
+	</region>
+</save>

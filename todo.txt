@@ -2,13 +2,13 @@
 - test in your game
 
 
-c5403c1d-f372-43e1-927a-9189e9e3545d
+ecfb9f69-5bc3-402e-acd8-c91d57e28403
 
 Input
-C:\Users\benjc\Documents\Game Projects\BG3-game-data-reference\Public\Shared\RootTemplates\dfb5a6ef-baee-4c0e-9b9d-7f5bd9458131.lsf
+C:\Users\benjc\Documents\Game Projects\BG3-game-data-reference\Public\Shared\RootTemplates\ecfb9f69-5bc3-402e-acd8-c91d57e28403.lsf
 
 Output
-C:\Users\benjc\Documents\Game Projects\BG3-game-data-reference\ConvertFileDump\dfb5a6ef-baee-4c0e-9b9d-7f5bd9458131.lsv
+C:\Users\benjc\Documents\Game Projects\BG3-game-data-reference\ConvertFileDump\ecfb9f69-5bc3-402e-acd8-c91d57e28403.lsv
 
 # folder for root templates
 C:\Users\benjc\Documents\Game Projects\bg1-and-bg2-legendary-equipment-mod\Public\BG1AndBG2LegendaryEquipmentMod\RootTemplates\Hammer of Thunderbolts.lsf
