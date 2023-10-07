@@ -12,3 +12,8 @@ C:\Users\benjc\Documents\Game Projects\BG3-game-data-reference\ConvertFileDump\e
 
 # folder for root templates
 C:\Users\benjc\Documents\Game Projects\bg1-and-bg2-legendary-equipment-mod\Public\BG1AndBG2LegendaryEquipmentMod\RootTemplates\Hammer of Thunderbolts.lsf
+
+
+
+data "UseConditions" "If(ClassLevel(Paladin) > 0) and If(!HasStatus('PALADIN_OATH_BROKEN'))"
+TV_BGLW_Carsomyr_Evil_Damage

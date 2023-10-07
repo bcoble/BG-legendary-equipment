@@ -9,13 +9,13 @@
                     <attribute id="Author" type="LSString" value="ToaVee"/>
                     <attribute id="CharacterCreationLevelName" type="FixedString" value=""/>
                     <attribute id="Description" type="LSString" value="A mod to bring back the powerful and nostalgic legendary weapons from the original Baldur's Gate games. Craft and wield the likes of Crom Faeyr or Carsomyr once again."/>
-                    <attribute id="Folder" type="LSString" value="BG1AndBG2LegendaryEquipmentMod"/>
+                    <attribute id="Folder" type="LSString" value="BGLegendaryEquipmentMod"/>
                     <attribute id="GMTemplate" type="FixedString" value=""/>
                     <attribute id="LobbyLevelName" type="FixedString" value=""/>
                     <attribute id="MD5" type="LSString" value=""/>
                     <attribute id="MainMenuBackgroundVideo" type="FixedString" value=""/>
                     <attribute id="MenuLevelName" type="FixedString" value=""/>
-                    <attribute id="Name" type="FixedString" value="BG1AndBG2LegendaryEquipmentMod"/>
+                    <attribute id="Name" type="FixedString" value="BGLegendaryEquipmentMod"/>
                     <attribute id="NumPlayers" type="uint8" value="4"/>
                     <attribute id="PhotoBooth" type="FixedString" value=""/>
                     <attribute id="StartupLevelName" type="FixedString" value=""/>

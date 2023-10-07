@@ -2,8 +2,8 @@
     "Mods": [
         {
             "Author": "ToaVee",
-            "Name": "BG1 And BG2 Legendary Equipment Mod",
-            "Folder": "BG1AndBG2LegendaryEquipmentMod",
+            "Name": "BG Legendary Equipment Mod",
+            "Folder": "BGLegendaryEquipmentMod",
             "Version": "1.0.0",
             "Description": "A mod to bring back the powerful and nostalgic legendary weapons from the original Baldur's Gate games. Craft and wield the likes of Crom Faeyr or Carsomyr once again.",
             "UUID": "6778a6d5-2caf-4a8d-a91d-39d488b77ee6",

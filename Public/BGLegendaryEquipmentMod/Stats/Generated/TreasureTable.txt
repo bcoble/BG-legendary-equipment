@@ -7,7 +7,7 @@ object category "I_TV_BGLW_Celestial_Fury",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_TV_BGLW_Shortbow_of_Gesen",1,0,0,0,0,0,0,0
 new subtable "1,1"
-object category "TV_BGLW_Carsomyr",1,0,0,0,0,0,0,0
+object category "I_TV_BGLW_Carsomyr",1,0,0,0,0,0,0,0
 
 new treasuretable "TUT_Chest_Potions"
 CanMerge 1
@@ -18,7 +18,7 @@ object category "I_TV_BGLW_Celestial_Fury",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_TV_BGLW_Shortbow_of_Gesen",1,0,0,0,0,0,0,0
 new subtable "1,1"
-object category "TV_BGLW_Carsomyr",1,0,0,0,0,0,0,0
+object category "I_TV_BGLW_Carsomyr",1,0,0,0,0,0,0,0
 
 new treasuretable "SEM_SampleBackpack_TT"
 CanMerge 1
@@ -29,4 +29,4 @@ object category "I_TV_BGLW_Celestial_Fury",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_TV_BGLW_Shortbow_of_Gesen",1,0,0,0,0,0,0,0
 new subtable "1,1"
-object category "TV_BGLW_Carsomyr",1,0,0,0,0,0,0,0
+object category "I_TV_BGLW_Carsomyr",1,0,0,0,0,0,0,0
