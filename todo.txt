@@ -1,17 +1,16 @@
-- make first weapon, hammer of thunderbolts
-- test in your game
 
 
 ecfb9f69-5bc3-402e-acd8-c91d57e28403
+769adbf8-d3bf-48f7-8c2b-21fb892b1d33
 
 Input
-C:\Users\benjc\Documents\Game Projects\BG3-game-data-reference\Public\Shared\RootTemplates\ecfb9f69-5bc3-402e-acd8-c91d57e28403.lsf
+C:\Users\benjc\Documents\Game Projects\BG3-game-data-reference\Public\Shared\RootTemplates\769adbf8-d3bf-48f7-8c2b-21fb892b1d33.lsf
 
 Output
-C:\Users\benjc\Documents\Game Projects\BG3-game-data-reference\ConvertFileDump\ecfb9f69-5bc3-402e-acd8-c91d57e28403.lsv
+C:\Users\benjc\Documents\Game Projects\BG3-game-data-reference\ConvertFileDump\769adbf8-d3bf-48f7-8c2b-21fb892b1d33.lsv
 
 # folder for root templates
-C:\Users\benjc\Documents\Game Projects\bg1-and-bg2-legendary-equipment-mod\Public\BG1AndBG2LegendaryEquipmentMod\RootTemplates\Hammer of Thunderbolts.lsf
+C:\Users\benjc\Documents\Game Projects\bg-legendary-equipment\Public\BGLegendaryEquipmentMod\RootTemplates\Hammer of Thunderbolts.lsf
 
 
 
