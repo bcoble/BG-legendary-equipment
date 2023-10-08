@@ -19,9 +19,17 @@
   <content contentuid="h58c26eacg2c9eg4623g98afg7479837ed9bb" version="1">Carsomyr is a weapon of legend, perhaps one of the most powerful blades ever forged on Faerun, though its origin and history is thought purposefully forgotten so that the sword itself shall never overshadow the importance of the struggles that must be fought today. It is infused with the very essence of virtue and requires as much from any Paladin who would hope to wield it. The evils of the realms must truly stand aside when this weapon is brought to bear, their magic dispelled with a word, steadfastly resisted with ease. Carsomyr also harbors a special distaste for the forces of evil and chaos, and such creatures must fear additional damage from its touch in battle.</content> 
   <content contentuid="hecf38e25ge960g4424g9e4egb728464ad052" version="1">Carsomyr</content> 
 
-  <content contentuid="hcd2357d0g028fg40b5g9f17gddc05fd53024" version="1">Carsomyr deals extra damage to evil creatures.</content> 
+  <content contentuid="hcd2357d0g028fg40b5g9f17gddc05fd53024" version="1">Carsomyr deals an extra [1] to evil creatures.</content> 
   <content contentuid="h34ff420ag358dg4f3cg9737g85c7aa3d4807" version="1">Holy Power</content> 
 
+  <content contentuid="hee6f2213g553ag44cbg82baga09abd35be11" version="1">Carsomyr overwhelms nearby foes' spells without rest.</content> 
+  <content contentuid="h1dd17a66gede3g4d3fg9a24g2b842d177004" version="1">Relentless Melee Counterspell</content> 
+
+  <content contentuid="hae0b6a4egfee3g4ac0gbc84ge737ec164337" version="1">Carsomyr's dispell extends even to foes far away.</content> 
+  <content contentuid="h80f83c13gc838g43acgb97cg9c20cfcca8c4" version="1">Ranged Counterspell</content> 
+  
+  <content contentuid="h124a0714ge56dg4bd9ga2f2g87174701502d" version="1">Only Paladins that are Pure of Heart may wield Carsomyr.</content> 
+  <content contentuid="hbb0db8e2gc394g4db9gba59g8a2092914212" version="1">Pure of Heart</content> 
 
   <!-- <content contentuid="" version="1"></content>  -->
 </contentList>

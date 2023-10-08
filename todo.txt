@@ -13,6 +13,6 @@ C:\Users\benjc\Documents\Game Projects\BG3-game-data-reference\ConvertFileDump\7
 C:\Users\benjc\Documents\Game Projects\bg-legendary-equipment\Public\BGLegendaryEquipmentMod\RootTemplates\Hammer of Thunderbolts.lsf
 
 
-
-data "UseConditions" "If(ClassLevel(Paladin) > 0) and If(!HasStatus('PALADIN_OATH_BROKEN'))"
-TV_BGLW_Carsomyr_Evil_Damage
+data "UseConditions" "ClassLevelHigherOrEqualThan(0, 'Paladin') and not HasStatus('PALADIN_OATH_BROKEN')"
+data "RequirementConditions" "ClassLevelHigherOrEqualThan(0, 'Paladin') and not HasStatus('PALADIN_OATH_BROKEN')"
+IF(ClassLevelHigherOrEqualThan(1,'Paladin') and not HasStatus('PALADIN_OATH_BROKEN')):
