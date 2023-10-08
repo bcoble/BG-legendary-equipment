@@ -2,17 +2,14 @@
 
 ecfb9f69-5bc3-402e-acd8-c91d57e28403
 769adbf8-d3bf-48f7-8c2b-21fb892b1d33
+c3647bf7-8eea-45cd-8cec-a90b21cd8c07
+660483f6-8eb3-45be-88a4-327f9d417026
 
 Input
-C:\Users\benjc\Documents\Game Projects\BG3-game-data-reference\Public\Shared\RootTemplates\769adbf8-d3bf-48f7-8c2b-21fb892b1d33.lsf
+C:\Users\benjc\Documents\Game Projects\BG3-game-data-reference\Public\Shared\RootTemplates\660483f6-8eb3-45be-88a4-327f9d417026.lsf
 
 Output
-C:\Users\benjc\Documents\Game Projects\BG3-game-data-reference\ConvertFileDump\769adbf8-d3bf-48f7-8c2b-21fb892b1d33.lsv
+C:\Users\benjc\Documents\Game Projects\BG3-game-data-reference\ConvertFileDump\660483f6-8eb3-45be-88a4-327f9d417026.lsx
 
 # folder for root templates
-C:\Users\benjc\Documents\Game Projects\bg-legendary-equipment\Public\BGLegendaryEquipmentMod\RootTemplates\Hammer of Thunderbolts.lsf
-
-
-data "UseConditions" "ClassLevelHigherOrEqualThan(0, 'Paladin') and not HasStatus('PALADIN_OATH_BROKEN')"
-data "RequirementConditions" "ClassLevelHigherOrEqualThan(0, 'Paladin') and not HasStatus('PALADIN_OATH_BROKEN')"
-IF(ClassLevelHigherOrEqualThan(1,'Paladin') and not HasStatus('PALADIN_OATH_BROKEN')):
+C:\Users\benjc\Documents\Game Projects\BG-legendary-equipment\src\BG-legendary-equipment\Public\BGLegendaryEquipmentMod\RootTemplates\Carsomyr.lsx
