@@ -19,18 +19,10 @@
 					<attribute id="VisualTemplate" type="FixedString" value="421b7547-1981-8a88-e706-8bb4e956c568" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115188075855919" />
 					<children>
-						<node id="GameMaster" />
-						<node id="OnDestroyActions">
+						<node id="StatusList">
 							<children>
-								<node id="Action">
-									<attribute id="ActionType" type="int32" value="26" />
-									<children>
-										<node id="Attributes">
-											<attribute id="Animation" type="FixedString" value="" />
-											<attribute id="ActivateSoundEvent" type="FixedString" value="3ea82655-5140-4287-9ab8-794559f182d3" />
-											<attribute id="PlayOnHUD" type="bool" value="False" />
-										</node>
-									</children>
+								<node id="Status">
+									<attribute id="Object" type="FixedString" value="TV_BGLW_Carsomyr_Holy_Effect" />
 								</node>
 							</children>
 						</node>

@@ -1,3 +1,39 @@
+1. Finish parameterizing items
+2. Set up locations for equipment
+3. Figure out optional setup with Chest of Forgotten Souls
+4. Write fancy notes and post spoiler options to find items (and include their uuid for cheatengine folks)
+5. Make sure no senstive stuff is in mod
+6. Post :D :D :D
+7. Work on combining
+8. Add more items
+9. Work on better VFX
+
+Completed
+
+Hammer of Thunderbolts
+Casomyr
+Shortbow of Gesen
+Celestial Fury
+
+
+
+
+
+Todo
+Girdle of Frost Giant Strength
+Gauntlets of Ogre Power
+Crom Faeyr
+Daystar
+Black Razor
+Firetooth
+Shortsword of Mask
+Mace of Disruption
+Ixil's Tooth
+Dagger of Stars
+
+Considering
+Improve FoA with more heads
+Pick some axes, probably azurerenge
 
 
 ecfb9f69-5bc3-402e-acd8-c91d57e28403
