@@ -23,7 +23,7 @@ data "RemoveEvents" "OnUnequip"
 new entry "TV_BGLW_Carsomyr_Holy_Effect"
 type "StatusData"
 data "StatusType" "BOOST"
-data "StatusEffectOverride" "f1c5a7d3-c966-4d7f-87b7-376f1e64edbd"
+data "StatusEffectOverride" "74d126ef-5d43-4ad4-9eb9-4eb241381685"
 
 new entry "XXXXXDIPPED_FIRE"
 type "StatusData"

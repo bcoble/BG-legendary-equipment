@@ -35,17 +35,16 @@ The following items are available in version 1.0.0.
 9. Work on better VFX
 
 Completed
-
-Hammer of Thunderbolts
 Casomyr
 Shortbow of Gesen
 Celestial Fury
+Daystar
 
 Todo
 Girdle of Frost Giant Strength
 Gauntlets of Ogre Power
 Crom Faeyr
-Daystar
+Hammer of Thunderbolts
 Black Razor
 Firetooth
 Shortsword of Mask

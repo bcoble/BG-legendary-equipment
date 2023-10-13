@@ -31,5 +31,16 @@
   <content contentuid="h124a0714ge56dg4bd9ga2f2g87174701502d" version="1">Only Paladins that are Pure of Heart may wield Carsomyr. All else will take [1] while holding Carsomyr.</content> 
   <content contentuid="hbb0db8e2gc394g4db9gba59g8a2092914212" version="1">Pure of Heart</content> 
 
+  <content contentuid="h32951c26g4126g4d3fg9310g48505bc83d8b" version="1">Whether created specifically for use in the service of Torm or appropriated at some point in the long history of the church, paladins of the Loyal Fury have made good use of Daystar in their battles against evil undead. Through magic or blessing it is empowered with the Sunray, a force of pure life energy so potent that it slays both living and unliving.</content> 
+  <content contentuid="hf55997b2gc3d2g4830ga60dg7ea6ddcde261" version="1">Sunblade +2: Daystar</content> 
+
+  <content contentuid="hf12a6b9fga096g4877g8821gfacb30faf207" version="1">Daystar deals double damage against all forms of undead.</content> 
+  <content contentuid="h99a31bf6g0649g4f69gb588gd691c492d988" version="1">Undead Destroyer</content> 
+
+  <content contentuid="hc4d9162dg6b50g4cffg9478g465ad4dea004" version="1">Enemies take [1] damage and must [2] or be [3]. Undead take [4] per caster level and must Save vs. Spell or be destroyed.</content> 
+  <content contentuid="hd202b4d5g3f7dg436aga56dg1a2499b50bd1" version="1">Sunray</content>
+
+  <content contentuid="h49df63d2g61dfg4651g8baag9aa857683341" version="1">Daystar counts as +4 to attack and damage against evil creatures.</content> 
+  <content contentuid="h1130e6e1g2433g4b6fgb41ag3e65651aeaa8" version="1">Holy Power</content> 
   <!-- <content contentuid="" version="1"></content>  -->
 </contentList>

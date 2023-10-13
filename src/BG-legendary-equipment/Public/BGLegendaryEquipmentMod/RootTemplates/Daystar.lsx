@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="0" revision="6" build="5" />
+	<region id="Templates">
+		<node id="Templates">
+			<children>	
+				<node id="GameObjects">
+					<attribute id="Description" type="TranslatedString" handle="h32951c26g4126g4d3fg9310g48505bc83d8b" version="1" /> 
+					<attribute id="DisplayName" type="TranslatedString" handle="hf55997b2gc3d2g4830ga60dg7ea6ddcde261" version="1" /> 
+					<attribute id="EquipmentTypeID" type="guid" value="f85002a2-8e0e-4a49-aa0f-f52e987d3a3a" />
+					<attribute id="Icon" type="FixedString" value="Item_WPN_HUM_Longsword_A_1" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="8a2e437e-7273-4af8-a4df-3b3d9b1762aa" />
+					<attribute id="Name" type="LSString" value="TV_BGLW_Daystar" />
+					<attribute id="ParentTemplateId" type="FixedString" value="1865323f-b428-4791-a0a9-578841e57463" />
+					<attribute id="PhysicsTemplate" type="FixedString" value="cd4a8a69-8f43-bfe1-5998-5831c52ffd19" />
+					<attribute id="Stats" type="FixedString" value="TV_BGLW_Daystar" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="VisualTemplate" type="FixedString" value="91a755e7-f02c-19cd-8d61-3da7192a8396" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115188075855919" />
+					<children>
+						<node id="GameMaster" />
+						<node id="OnDestroyActions">
+							<children>
+								<node id="Action">
+									<attribute id="ActionType" type="int32" value="26" />
+									<children>
+										<node id="Attributes">
+											<attribute id="Animation" type="FixedString" value="" />
+											<attribute id="ActivateSoundEvent" type="FixedString" value="3ea82655-5140-4287-9ab8-794559f182d3" />
+											<attribute id="PlayOnHUD" type="bool" value="False" />
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>					
+			</children>
+		</node>
+	</region>
+</save>
