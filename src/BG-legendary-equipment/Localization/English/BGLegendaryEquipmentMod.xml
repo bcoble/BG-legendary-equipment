@@ -34,13 +34,13 @@
   <content contentuid="h32951c26g4126g4d3fg9310g48505bc83d8b" version="1">Whether created specifically for use in the service of Torm or appropriated at some point in the long history of the church, paladins of the Loyal Fury have made good use of Daystar in their battles against evil undead. Through magic or blessing it is empowered with the Sunray, a force of pure life energy so potent that it slays both living and unliving.</content> 
   <content contentuid="hf55997b2gc3d2g4830ga60dg7ea6ddcde261" version="1">Sunblade +2: Daystar</content> 
 
-  <content contentuid="hf12a6b9fga096g4877g8821gfacb30faf207" version="1">Daystar deals double damage against all forms of undead.</content> 
+  <content contentuid="hf12a6b9fga096g4877g8821gfacb30faf207" version="1">Daystar [1] against all forms of undead.</content> 
   <content contentuid="h99a31bf6g0649g4f69gb588gd691c492d988" version="1">Undead Destroyer</content> 
 
-  <content contentuid="hc4d9162dg6b50g4cffg9478g465ad4dea004" version="1">Enemies take [1] damage and must [2] or be Blinded for 2 turns. Undead take [3] and must Save vs. Spell or be destroyed.</content> 
+  <content contentuid="hc4d9162dg6b50g4cffg9478g465ad4dea004" version="1">Enemies take [1] damage and may be Blinded for 2 turns. Undead take [2] and must Save vs. Spell or be destroyed.</content> 
   <content contentuid="hd202b4d5g3f7dg436aga56dg1a2499b50bd1" version="1">Sunray</content>
 
-  <content contentuid="h49df63d2g61dfg4651g8baag9aa857683341" version="1">Daystar counts as +4 to attack and damage against evil creatures.</content> 
-  <content contentuid="h1130e6e1g2433g4b6fgb41ag3e65651aeaa8" version="1">Holy Power</content> 
+  <content contentuid="h49df63d2g61dfg4651g8baag9aa857683341" version="1">Daystar has Advantage on attack rolls against evil creatures.</content> 
+  <content contentuid="h1130e6e1g2433g4b6fgb41ag3e65651aeaa8" version="1">Torm's Fury</content> 
   <!-- <content contentuid="" version="1"></content>  -->
 </contentList>

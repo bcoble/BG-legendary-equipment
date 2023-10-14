@@ -89,5 +89,5 @@ data "Weapon Properties" "Versatile;Melee;Dippable;Magical"
 data "Proficiency Group" "Longswords;MartialWeapons"
 data "Rarity" "VeryRare"
 data "DefaultBoosts" "WeaponEnchantment(2);WeaponProperty(Magical)"
-data "PassivesOnEquip" "TV_BGLW_Daystar_Plus_2_VS_Evil;TV_BGLW_Daystar_Undead_Double_Damage
+data "PassivesOnEquip" "TV_BGLW_Daystar_Plus_Advantage_VS_Evil;TV_BGLW_Daystar_Undead_Double_Damage"
 data "Unique" "1"
