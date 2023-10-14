@@ -1,11 +1,12 @@
-Item Locations and UUIDs
+Item Locations and Item UUIDs
 
 v1
-Carsomyr - ??? in Act 3, wrym's crossing probably
-Shortbow of Gesen - Underdark Mage Tower top floor Act 1
-Celestial Fury - Selune hideout Act 2
-Daystar - Near shadow tree plant ambush Act 2
+Carsomyr - Shar's high security vault 8 in Act 3, 0f2ec869-9335-4f25-9615-2fb4d4b7aefe
+Shortbow of Gesen - Underdark Mage Tower basement gilded chest Act 1, ca0caa9a-987d-4a54-aecc-f7cb98c339c2
+Celestial Fury - Creche Gith Captain, 57d31356-237c-4df9-a660-6d549723b80e
+Daystar - Secret chest in the Last Light Inn cellar, 8a2e437e-7273-4af8-a4df-3b3d9b1762aa
 
+Coming Eventually...
 v2
 Warhammer of Thunderbolts - Grymforge Act 1
 Gauntlets of ogre power - Mason hideout Act 2

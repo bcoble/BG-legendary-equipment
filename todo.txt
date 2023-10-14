@@ -1,6 +1,6 @@
-1. Finish parameterizing items
-2. Set up locations for equipment
-3. Figure out optional setup with Chest of Forgotten Souls
+1. Finish parameterizing items - done
+2. Set up locations for equipment - done
+3. Figure out optional setup with Chest of Forgotten Souls - later
 4. Write fancy notes and post spoiler options to find items (and include their uuid for cheatengine folks)
 5. Make sure no senstive stuff is in mod
 6. Post :D :D :D

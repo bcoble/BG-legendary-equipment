@@ -1,3 +1,23 @@
+new treasuretable "LOW_CountingHouse_HighSecurityVault_8"
+CanMerge 1
+new subtable "1,1"
+object category "I_TV_BGLW_Carsomyr",1,0,0,0,0,0,0,0
+
+new treasuretable "UND_Tower_SecretCellar_RewardChest"
+CanMerge 1
+new subtable "1,1"
+object category "I_TV_BGLW_Shortbow_of_Gesen",1,0,0,0,0,0,0,0
+
+new treasuretable "CRE_Gith_Elite"
+CanMerge 1
+new subtable "1,1"
+object category "I_TV_BGLW_Celestial_Fury",1,0,0,0,0,0,0,0
+
+new treasuretable "HAV_CaveExploration_Chest"
+CanMerge 1
+new subtable "1,1"
+object category "I_TV_BGLW_Daystar",1,0,0,0,0,0,0,0
+
 new treasuretable "TUT_Chest_Potions"
 CanMerge 1
 new subtable "1,1"
