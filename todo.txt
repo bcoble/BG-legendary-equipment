@@ -2,11 +2,10 @@
 2. Set up locations for equipment - done
 3. Figure out optional setup with Chest of Forgotten Souls - later
 4. Write fancy notes and post spoiler options to find items (and include their uuid for cheatengine folks)
-5. Make sure no senstive stuff is in mod
-6. Post :D :D :D
-7. Work on combining
-8. Add more items
-9. Work on better VFX
+5. Post :D :D :D
+6. Work on combining
+7. Add more items
+8. Work on better VFX
 
 Completed
 
