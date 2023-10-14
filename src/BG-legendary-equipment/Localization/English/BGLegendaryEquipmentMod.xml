@@ -37,7 +37,7 @@
   <content contentuid="hf12a6b9fga096g4877g8821gfacb30faf207" version="1">Daystar deals double damage against all forms of undead.</content> 
   <content contentuid="h99a31bf6g0649g4f69gb588gd691c492d988" version="1">Undead Destroyer</content> 
 
-  <content contentuid="hc4d9162dg6b50g4cffg9478g465ad4dea004" version="1">Enemies take [1] damage and must [2] or be [3]. Undead take [4] per caster level and must Save vs. Spell or be destroyed.</content> 
+  <content contentuid="hc4d9162dg6b50g4cffg9478g465ad4dea004" version="1">Enemies take [1] damage and must [2] or be Blinded for 2 turns. Undead take [3] and must Save vs. Spell or be destroyed.</content> 
   <content contentuid="hd202b4d5g3f7dg436aga56dg1a2499b50bd1" version="1">Sunray</content>
 
   <content contentuid="h49df63d2g61dfg4651g8baag9aa857683341" version="1">Daystar counts as +4 to attack and damage against evil creatures.</content> 
