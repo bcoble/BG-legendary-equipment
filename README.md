@@ -10,7 +10,7 @@ Early versions of this mod will include simple crafting capabilities by clicking
 
 I give full permission to reuse my mod in mod packs or porting, with credit to this mod. I do not own any
 
-Nexus link: [BG-Legendary-Equipment-Mod](todo add link)
+## Nexus link: [BG-Legendary-Equipment-Mod](https://www.nexusmods.com/baldursgate3/mods/2810)
 
 The following items are available in version 1.0.0. You can find their locations in the [locations.txt](locations.txt), file including UUIDS if you want to cheat them in.
 
