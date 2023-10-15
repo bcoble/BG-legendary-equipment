@@ -19,6 +19,7 @@ The following items are available in version 1.0.0. You can find their locations
 * Daystar
 * Shortbow of Gesen
 
+### Future work
 The following items are roughly planned for v2 and v3.
 
 V2 - item combination
@@ -35,7 +36,7 @@ V2 - item combination
 * Dagger of the Star
 * Pick some axes, probably azurerenge
 
-v3
+v3 - magic items
 * ring of gaxx
 * ring of wizardry
 * robe of vecna
